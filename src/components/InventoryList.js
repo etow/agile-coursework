@@ -6,7 +6,7 @@ export default function InventoryList({items}) {
             <li key={item.id} className="bg-white border-b border-gray-100">
                 <MediaItem
                     title={item.name}
-                    image={{ src: 'http://placekitten.com/200/300' }}
+                    image={{ src: 'https://placekitten.com/200/300' }}
                     size="large"
                 />
             </li>

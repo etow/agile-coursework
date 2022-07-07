@@ -18,7 +18,7 @@ export default function InventoryDetail({item}) {
                         <Title label="Attachments" classes={['-mt-2','mb-2']} add={true} type={5} dashed={false} />
                         <MediaItem
                             title="Some file"
-                            image={{ src: 'http://placekitten.com/200/300' }}
+                            image={{ src: 'https://placekitten.com/200/300' }}
                         />
                     </Box>
                     <Box>
