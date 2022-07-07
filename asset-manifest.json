@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/agile-coursework/static/css/main.1cc1ab6d.css",
+    "main.js": "/agile-coursework/static/js/main.f08a3a54.js",
+    "index.html": "/agile-coursework/index.html",
+    "main.1cc1ab6d.css.map": "/agile-coursework/static/css/main.1cc1ab6d.css.map",
+    "main.f08a3a54.js.map": "/agile-coursework/static/js/main.f08a3a54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cc1ab6d.css",
+    "static/js/main.f08a3a54.js"
+  ]
+}
